@@ -12,7 +12,7 @@ In the tutorial ChemBERTa model, pre-trained on 77M SMILES from PubChem [2] is u
 <br>
 <br>
 In this notebook, another version, i.e. ChemBERTa-2 model [3,4] is used for fine-tuning the molecules' ability to inhibit HIV task [5]. <br><br>
-The leaderboard for this dataset can be found here: [Molecular Property Prediction on HIV dataset](https://paperswithcode.com/sota/molecular-property-prediction-on-hiv-dataset)
+
 
 <br><br>
 <br> References: <br>
