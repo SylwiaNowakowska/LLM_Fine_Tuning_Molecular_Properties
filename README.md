@@ -2,6 +2,9 @@
 
 ## Fine-tuning of ChemBERTa-2 for the HIV replication inhibition prediction.
 
+ 	
+[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/chemberta-2-fine-tuning-for-molecules-hiv/molecular-property-prediction-on-hiv-dataset)](https://paperswithcode.com/sota/molecular-property-prediction-on-hiv-dataset?p=chemberta-2-fine-tuning-for-molecules-hiv)
+
 
 
 This notebook is based on DeepChem Tutorial "Transfer Learning with ChemBERTAa Transformers" [1]. <br>
